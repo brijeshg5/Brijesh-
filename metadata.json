@@ -1,0 +1,6 @@
+{
+  "name": "Hal Chal",
+  "description": "A secure messaging and calling app with end-to-end encryption features, status, reels, and premium memberships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
